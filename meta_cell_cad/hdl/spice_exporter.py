@@ -3,7 +3,6 @@ from ..core.netlist import Netlist
 def export_spice(nl: Netlist, vdd: float = 1.0) -> str:
     lines = [f"* SPICE netlist (vdd={vdd}V)"]
     lines.append(".include std_cells.lib")
-    # Nodes and connections
     for cid in nl.g.nodes:
         lines.append(f"* cell {cid}")
         lines.append(f"V{cid[0]}_{cid[1]} VDD 0 {vdd}")

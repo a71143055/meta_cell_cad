@@ -1,10 +1,10 @@
 import networkx as nx
-from typing import Dict, Tuple
+from typing import Dict
 from .grid import Grid
 
 class Netlist:
     def __init__(self):
-        self.g = nx.DiGraph()  # nodes: cells; edges: signal connections
+        self.g = nx.DiGraph()
 
     def from_grid(self, grid: Grid) -> "Netlist":
         self.g.clear()
@@ -12,7 +12,6 @@ class Netlist:
             self.g.add_node(cid, type=cell.state.type, params=cell.state.params)
         for cid, cell in grid.cells.items():
             for nbr in cell.neighbors:
-                # Connect out -> in to emulate simple signal propagation
                 self.g.add_edge(cid, nbr, signal="out")
         return self
 

@@ -1,8 +1,6 @@
-from typing import Dict, Tuple
 from ..core.netlist import Netlist
 
-def place_grid(nl: Netlist, width: int, height: int) -> Dict[Tuple[int,int], Tuple[int,int]]:
-    """Map logical cells to physical coordinates (identity for now)."""
+def place_grid(nl: Netlist, width: int, height: int):
     coords = {}
     for cid in nl.g.nodes:
         x, y = cid

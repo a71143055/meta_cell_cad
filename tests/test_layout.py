@@ -8,3 +8,4 @@ def test_place_and_route():
     coords = place_grid(nl, 3, 3)
     routes = manhattan_route(nl, coords)
     assert isinstance(routes, list)
+

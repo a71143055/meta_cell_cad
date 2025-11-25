@@ -14,3 +14,4 @@ def test_spice_export():
     s = export_spice(nl, 1.0)
     assert "* SPICE netlist" in s
     assert ".end" in s
+

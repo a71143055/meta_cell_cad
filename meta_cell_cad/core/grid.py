@@ -33,5 +33,6 @@ class Grid:
             cell.differentiate()
 
     def snapshot(self):
-        return {cid: (cell.state.type, cell.state.health, dict(cell.state.signals))
+        # 🔧 튜플 키 → 문자열 변환
+        return {f"{cid[0]},{cid[1]}": (cell.state.type, cell.state.health, dict(cell.state.signals))
                 for cid, cell in self.cells.items()}

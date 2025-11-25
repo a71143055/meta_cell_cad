@@ -12,3 +12,4 @@ def test_step_changes_health():
     g.step()
     h1 = [c.state.health for c in g.cells.values()]
     assert h0 != h1
+

@@ -11,3 +11,4 @@ class SynthesisConfig:
 class ExportConfig:
     top_module_name: str = "top"
     spice_supply_v: float = 1.0
+

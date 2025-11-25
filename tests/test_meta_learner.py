@@ -5,3 +5,4 @@ def test_meta_train_runs():
     ml = MetaLearner(seed=7)
     rewards, meta = ml.train(episodes=2, grid_factory=lambda: Grid(4,4))
     assert len(rewards) == 2
+

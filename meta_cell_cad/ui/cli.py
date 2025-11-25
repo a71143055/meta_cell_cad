@@ -36,11 +36,9 @@ def synthesize(design_path: str, out_dir: str):
                              grid_factory=lambda: Grid(cfg.grid_width, cfg.grid_height))
     log.info(f"Meta rewards: {rewards}; meta: {meta}")
 
-    # Build netlist from current grid
     nl = Netlist().from_grid(grid)
     log.info(f"Netlist stats: {nl.stats()}")
 
-    # Export HDL/SPICE
     v_content = export_verilog(nl, exp_cfg.top_module_name)
     s_content = export_spice(nl, exp_cfg.spice_supply_v)
     with open(os.path.join(out_dir, "top.v"), "w", encoding="utf-8") as vf:
@@ -49,15 +47,15 @@ def synthesize(design_path: str, out_dir: str):
         sf.write(s_content)
     log.info("Exported Verilog and SPICE")
 
-    # Layout and timing
     coords = place_grid(nl, cfg.grid_width, cfg.grid_height)
     routes = manhattan_route(nl, coords)
     delay = estimate_delay(routes)
     with open(os.path.join(out_dir, "layout.json"), "w", encoding="utf-8") as lf:
-        json.dump({"coords": coords, "routes": routes, "delay_estimate": delay}, lf, indent=2)
+        json.dump({"coords": {str(k): v for k,v in coords.items()},
+                   "routes": routes,
+                   "delay_estimate": delay}, lf, indent=2)
     log.info(f"Layout done, delay~{delay:.3f}")
 
-    # Simulation
     healths = simulate(grid, steps=design.get("sim_steps", 50))
     with open(os.path.join(out_dir, "sim.json"), "w", encoding="utf-8") as sf:
         json.dump({"health": healths}, sf, indent=2)
