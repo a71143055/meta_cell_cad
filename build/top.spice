@@ -1,0 +1,1347 @@
+* SPICE netlist (vdd=0.9V)
+.include std_cells.lib
+* cell (0, 0)
+V0_0 VDD 0 0.9
+* cell (1, 0)
+V1_0 VDD 0 0.9
+* cell (2, 0)
+V2_0 VDD 0 0.9
+* cell (3, 0)
+V3_0 VDD 0 0.9
+* cell (4, 0)
+V4_0 VDD 0 0.9
+* cell (5, 0)
+V5_0 VDD 0 0.9
+* cell (6, 0)
+V6_0 VDD 0 0.9
+* cell (7, 0)
+V7_0 VDD 0 0.9
+* cell (8, 0)
+V8_0 VDD 0 0.9
+* cell (9, 0)
+V9_0 VDD 0 0.9
+* cell (10, 0)
+V10_0 VDD 0 0.9
+* cell (11, 0)
+V11_0 VDD 0 0.9
+* cell (0, 1)
+V0_1 VDD 0 0.9
+* cell (1, 1)
+V1_1 VDD 0 0.9
+* cell (2, 1)
+V2_1 VDD 0 0.9
+* cell (3, 1)
+V3_1 VDD 0 0.9
+* cell (4, 1)
+V4_1 VDD 0 0.9
+* cell (5, 1)
+V5_1 VDD 0 0.9
+* cell (6, 1)
+V6_1 VDD 0 0.9
+* cell (7, 1)
+V7_1 VDD 0 0.9
+* cell (8, 1)
+V8_1 VDD 0 0.9
+* cell (9, 1)
+V9_1 VDD 0 0.9
+* cell (10, 1)
+V10_1 VDD 0 0.9
+* cell (11, 1)
+V11_1 VDD 0 0.9
+* cell (0, 2)
+V0_2 VDD 0 0.9
+* cell (1, 2)
+V1_2 VDD 0 0.9
+* cell (2, 2)
+V2_2 VDD 0 0.9
+* cell (3, 2)
+V3_2 VDD 0 0.9
+* cell (4, 2)
+V4_2 VDD 0 0.9
+* cell (5, 2)
+V5_2 VDD 0 0.9
+* cell (6, 2)
+V6_2 VDD 0 0.9
+* cell (7, 2)
+V7_2 VDD 0 0.9
+* cell (8, 2)
+V8_2 VDD 0 0.9
+* cell (9, 2)
+V9_2 VDD 0 0.9
+* cell (10, 2)
+V10_2 VDD 0 0.9
+* cell (11, 2)
+V11_2 VDD 0 0.9
+* cell (0, 3)
+V0_3 VDD 0 0.9
+* cell (1, 3)
+V1_3 VDD 0 0.9
+* cell (2, 3)
+V2_3 VDD 0 0.9
+* cell (3, 3)
+V3_3 VDD 0 0.9
+* cell (4, 3)
+V4_3 VDD 0 0.9
+* cell (5, 3)
+V5_3 VDD 0 0.9
+* cell (6, 3)
+V6_3 VDD 0 0.9
+* cell (7, 3)
+V7_3 VDD 0 0.9
+* cell (8, 3)
+V8_3 VDD 0 0.9
+* cell (9, 3)
+V9_3 VDD 0 0.9
+* cell (10, 3)
+V10_3 VDD 0 0.9
+* cell (11, 3)
+V11_3 VDD 0 0.9
+* cell (0, 4)
+V0_4 VDD 0 0.9
+* cell (1, 4)
+V1_4 VDD 0 0.9
+* cell (2, 4)
+V2_4 VDD 0 0.9
+* cell (3, 4)
+V3_4 VDD 0 0.9
+* cell (4, 4)
+V4_4 VDD 0 0.9
+* cell (5, 4)
+V5_4 VDD 0 0.9
+* cell (6, 4)
+V6_4 VDD 0 0.9
+* cell (7, 4)
+V7_4 VDD 0 0.9
+* cell (8, 4)
+V8_4 VDD 0 0.9
+* cell (9, 4)
+V9_4 VDD 0 0.9
+* cell (10, 4)
+V10_4 VDD 0 0.9
+* cell (11, 4)
+V11_4 VDD 0 0.9
+* cell (0, 5)
+V0_5 VDD 0 0.9
+* cell (1, 5)
+V1_5 VDD 0 0.9
+* cell (2, 5)
+V2_5 VDD 0 0.9
+* cell (3, 5)
+V3_5 VDD 0 0.9
+* cell (4, 5)
+V4_5 VDD 0 0.9
+* cell (5, 5)
+V5_5 VDD 0 0.9
+* cell (6, 5)
+V6_5 VDD 0 0.9
+* cell (7, 5)
+V7_5 VDD 0 0.9
+* cell (8, 5)
+V8_5 VDD 0 0.9
+* cell (9, 5)
+V9_5 VDD 0 0.9
+* cell (10, 5)
+V10_5 VDD 0 0.9
+* cell (11, 5)
+V11_5 VDD 0 0.9
+* cell (0, 6)
+V0_6 VDD 0 0.9
+* cell (1, 6)
+V1_6 VDD 0 0.9
+* cell (2, 6)
+V2_6 VDD 0 0.9
+* cell (3, 6)
+V3_6 VDD 0 0.9
+* cell (4, 6)
+V4_6 VDD 0 0.9
+* cell (5, 6)
+V5_6 VDD 0 0.9
+* cell (6, 6)
+V6_6 VDD 0 0.9
+* cell (7, 6)
+V7_6 VDD 0 0.9
+* cell (8, 6)
+V8_6 VDD 0 0.9
+* cell (9, 6)
+V9_6 VDD 0 0.9
+* cell (10, 6)
+V10_6 VDD 0 0.9
+* cell (11, 6)
+V11_6 VDD 0 0.9
+* cell (0, 7)
+V0_7 VDD 0 0.9
+* cell (1, 7)
+V1_7 VDD 0 0.9
+* cell (2, 7)
+V2_7 VDD 0 0.9
+* cell (3, 7)
+V3_7 VDD 0 0.9
+* cell (4, 7)
+V4_7 VDD 0 0.9
+* cell (5, 7)
+V5_7 VDD 0 0.9
+* cell (6, 7)
+V6_7 VDD 0 0.9
+* cell (7, 7)
+V7_7 VDD 0 0.9
+* cell (8, 7)
+V8_7 VDD 0 0.9
+* cell (9, 7)
+V9_7 VDD 0 0.9
+* cell (10, 7)
+V10_7 VDD 0 0.9
+* cell (11, 7)
+V11_7 VDD 0 0.9
+* cell (0, 8)
+V0_8 VDD 0 0.9
+* cell (1, 8)
+V1_8 VDD 0 0.9
+* cell (2, 8)
+V2_8 VDD 0 0.9
+* cell (3, 8)
+V3_8 VDD 0 0.9
+* cell (4, 8)
+V4_8 VDD 0 0.9
+* cell (5, 8)
+V5_8 VDD 0 0.9
+* cell (6, 8)
+V6_8 VDD 0 0.9
+* cell (7, 8)
+V7_8 VDD 0 0.9
+* cell (8, 8)
+V8_8 VDD 0 0.9
+* cell (9, 8)
+V9_8 VDD 0 0.9
+* cell (10, 8)
+V10_8 VDD 0 0.9
+* cell (11, 8)
+V11_8 VDD 0 0.9
+* cell (0, 9)
+V0_9 VDD 0 0.9
+* cell (1, 9)
+V1_9 VDD 0 0.9
+* cell (2, 9)
+V2_9 VDD 0 0.9
+* cell (3, 9)
+V3_9 VDD 0 0.9
+* cell (4, 9)
+V4_9 VDD 0 0.9
+* cell (5, 9)
+V5_9 VDD 0 0.9
+* cell (6, 9)
+V6_9 VDD 0 0.9
+* cell (7, 9)
+V7_9 VDD 0 0.9
+* cell (8, 9)
+V8_9 VDD 0 0.9
+* cell (9, 9)
+V9_9 VDD 0 0.9
+* cell (10, 9)
+V10_9 VDD 0 0.9
+* cell (11, 9)
+V11_9 VDD 0 0.9
+* cell (0, 10)
+V0_10 VDD 0 0.9
+* cell (1, 10)
+V1_10 VDD 0 0.9
+* cell (2, 10)
+V2_10 VDD 0 0.9
+* cell (3, 10)
+V3_10 VDD 0 0.9
+* cell (4, 10)
+V4_10 VDD 0 0.9
+* cell (5, 10)
+V5_10 VDD 0 0.9
+* cell (6, 10)
+V6_10 VDD 0 0.9
+* cell (7, 10)
+V7_10 VDD 0 0.9
+* cell (8, 10)
+V8_10 VDD 0 0.9
+* cell (9, 10)
+V9_10 VDD 0 0.9
+* cell (10, 10)
+V10_10 VDD 0 0.9
+* cell (11, 10)
+V11_10 VDD 0 0.9
+* cell (0, 11)
+V0_11 VDD 0 0.9
+* cell (1, 11)
+V1_11 VDD 0 0.9
+* cell (2, 11)
+V2_11 VDD 0 0.9
+* cell (3, 11)
+V3_11 VDD 0 0.9
+* cell (4, 11)
+V4_11 VDD 0 0.9
+* cell (5, 11)
+V5_11 VDD 0 0.9
+* cell (6, 11)
+V6_11 VDD 0 0.9
+* cell (7, 11)
+V7_11 VDD 0 0.9
+* cell (8, 11)
+V8_11 VDD 0 0.9
+* cell (9, 11)
+V9_11 VDD 0 0.9
+* cell (10, 11)
+V10_11 VDD 0 0.9
+* cell (11, 11)
+V11_11 VDD 0 0.9
+* (0, 0) -> (1, 0) (out)
+X0_0_1_0 VDD 0 cell_link
+* (0, 0) -> (0, 1) (out)
+X0_0_0_1 VDD 0 cell_link
+* (1, 0) -> (2, 0) (out)
+X1_0_2_0 VDD 0 cell_link
+* (1, 0) -> (0, 0) (out)
+X1_0_0_0 VDD 0 cell_link
+* (1, 0) -> (1, 1) (out)
+X1_0_1_1 VDD 0 cell_link
+* (2, 0) -> (3, 0) (out)
+X2_0_3_0 VDD 0 cell_link
+* (2, 0) -> (1, 0) (out)
+X2_0_1_0 VDD 0 cell_link
+* (2, 0) -> (2, 1) (out)
+X2_0_2_1 VDD 0 cell_link
+* (3, 0) -> (4, 0) (out)
+X3_0_4_0 VDD 0 cell_link
+* (3, 0) -> (2, 0) (out)
+X3_0_2_0 VDD 0 cell_link
+* (3, 0) -> (3, 1) (out)
+X3_0_3_1 VDD 0 cell_link
+* (4, 0) -> (5, 0) (out)
+X4_0_5_0 VDD 0 cell_link
+* (4, 0) -> (3, 0) (out)
+X4_0_3_0 VDD 0 cell_link
+* (4, 0) -> (4, 1) (out)
+X4_0_4_1 VDD 0 cell_link
+* (5, 0) -> (6, 0) (out)
+X5_0_6_0 VDD 0 cell_link
+* (5, 0) -> (4, 0) (out)
+X5_0_4_0 VDD 0 cell_link
+* (5, 0) -> (5, 1) (out)
+X5_0_5_1 VDD 0 cell_link
+* (6, 0) -> (7, 0) (out)
+X6_0_7_0 VDD 0 cell_link
+* (6, 0) -> (5, 0) (out)
+X6_0_5_0 VDD 0 cell_link
+* (6, 0) -> (6, 1) (out)
+X6_0_6_1 VDD 0 cell_link
+* (7, 0) -> (8, 0) (out)
+X7_0_8_0 VDD 0 cell_link
+* (7, 0) -> (6, 0) (out)
+X7_0_6_0 VDD 0 cell_link
+* (7, 0) -> (7, 1) (out)
+X7_0_7_1 VDD 0 cell_link
+* (8, 0) -> (9, 0) (out)
+X8_0_9_0 VDD 0 cell_link
+* (8, 0) -> (7, 0) (out)
+X8_0_7_0 VDD 0 cell_link
+* (8, 0) -> (8, 1) (out)
+X8_0_8_1 VDD 0 cell_link
+* (9, 0) -> (10, 0) (out)
+X9_0_10_0 VDD 0 cell_link
+* (9, 0) -> (8, 0) (out)
+X9_0_8_0 VDD 0 cell_link
+* (9, 0) -> (9, 1) (out)
+X9_0_9_1 VDD 0 cell_link
+* (10, 0) -> (11, 0) (out)
+X10_0_11_0 VDD 0 cell_link
+* (10, 0) -> (9, 0) (out)
+X10_0_9_0 VDD 0 cell_link
+* (10, 0) -> (10, 1) (out)
+X10_0_10_1 VDD 0 cell_link
+* (11, 0) -> (10, 0) (out)
+X11_0_10_0 VDD 0 cell_link
+* (11, 0) -> (11, 1) (out)
+X11_0_11_1 VDD 0 cell_link
+* (0, 1) -> (1, 1) (out)
+X0_1_1_1 VDD 0 cell_link
+* (0, 1) -> (0, 2) (out)
+X0_1_0_2 VDD 0 cell_link
+* (0, 1) -> (0, 0) (out)
+X0_1_0_0 VDD 0 cell_link
+* (1, 1) -> (2, 1) (out)
+X1_1_2_1 VDD 0 cell_link
+* (1, 1) -> (0, 1) (out)
+X1_1_0_1 VDD 0 cell_link
+* (1, 1) -> (1, 2) (out)
+X1_1_1_2 VDD 0 cell_link
+* (1, 1) -> (1, 0) (out)
+X1_1_1_0 VDD 0 cell_link
+* (2, 1) -> (3, 1) (out)
+X2_1_3_1 VDD 0 cell_link
+* (2, 1) -> (1, 1) (out)
+X2_1_1_1 VDD 0 cell_link
+* (2, 1) -> (2, 2) (out)
+X2_1_2_2 VDD 0 cell_link
+* (2, 1) -> (2, 0) (out)
+X2_1_2_0 VDD 0 cell_link
+* (3, 1) -> (4, 1) (out)
+X3_1_4_1 VDD 0 cell_link
+* (3, 1) -> (2, 1) (out)
+X3_1_2_1 VDD 0 cell_link
+* (3, 1) -> (3, 2) (out)
+X3_1_3_2 VDD 0 cell_link
+* (3, 1) -> (3, 0) (out)
+X3_1_3_0 VDD 0 cell_link
+* (4, 1) -> (5, 1) (out)
+X4_1_5_1 VDD 0 cell_link
+* (4, 1) -> (3, 1) (out)
+X4_1_3_1 VDD 0 cell_link
+* (4, 1) -> (4, 2) (out)
+X4_1_4_2 VDD 0 cell_link
+* (4, 1) -> (4, 0) (out)
+X4_1_4_0 VDD 0 cell_link
+* (5, 1) -> (6, 1) (out)
+X5_1_6_1 VDD 0 cell_link
+* (5, 1) -> (4, 1) (out)
+X5_1_4_1 VDD 0 cell_link
+* (5, 1) -> (5, 2) (out)
+X5_1_5_2 VDD 0 cell_link
+* (5, 1) -> (5, 0) (out)
+X5_1_5_0 VDD 0 cell_link
+* (6, 1) -> (7, 1) (out)
+X6_1_7_1 VDD 0 cell_link
+* (6, 1) -> (5, 1) (out)
+X6_1_5_1 VDD 0 cell_link
+* (6, 1) -> (6, 2) (out)
+X6_1_6_2 VDD 0 cell_link
+* (6, 1) -> (6, 0) (out)
+X6_1_6_0 VDD 0 cell_link
+* (7, 1) -> (8, 1) (out)
+X7_1_8_1 VDD 0 cell_link
+* (7, 1) -> (6, 1) (out)
+X7_1_6_1 VDD 0 cell_link
+* (7, 1) -> (7, 2) (out)
+X7_1_7_2 VDD 0 cell_link
+* (7, 1) -> (7, 0) (out)
+X7_1_7_0 VDD 0 cell_link
+* (8, 1) -> (9, 1) (out)
+X8_1_9_1 VDD 0 cell_link
+* (8, 1) -> (7, 1) (out)
+X8_1_7_1 VDD 0 cell_link
+* (8, 1) -> (8, 2) (out)
+X8_1_8_2 VDD 0 cell_link
+* (8, 1) -> (8, 0) (out)
+X8_1_8_0 VDD 0 cell_link
+* (9, 1) -> (10, 1) (out)
+X9_1_10_1 VDD 0 cell_link
+* (9, 1) -> (8, 1) (out)
+X9_1_8_1 VDD 0 cell_link
+* (9, 1) -> (9, 2) (out)
+X9_1_9_2 VDD 0 cell_link
+* (9, 1) -> (9, 0) (out)
+X9_1_9_0 VDD 0 cell_link
+* (10, 1) -> (11, 1) (out)
+X10_1_11_1 VDD 0 cell_link
+* (10, 1) -> (9, 1) (out)
+X10_1_9_1 VDD 0 cell_link
+* (10, 1) -> (10, 2) (out)
+X10_1_10_2 VDD 0 cell_link
+* (10, 1) -> (10, 0) (out)
+X10_1_10_0 VDD 0 cell_link
+* (11, 1) -> (10, 1) (out)
+X11_1_10_1 VDD 0 cell_link
+* (11, 1) -> (11, 2) (out)
+X11_1_11_2 VDD 0 cell_link
+* (11, 1) -> (11, 0) (out)
+X11_1_11_0 VDD 0 cell_link
+* (0, 2) -> (1, 2) (out)
+X0_2_1_2 VDD 0 cell_link
+* (0, 2) -> (0, 3) (out)
+X0_2_0_3 VDD 0 cell_link
+* (0, 2) -> (0, 1) (out)
+X0_2_0_1 VDD 0 cell_link
+* (1, 2) -> (2, 2) (out)
+X1_2_2_2 VDD 0 cell_link
+* (1, 2) -> (0, 2) (out)
+X1_2_0_2 VDD 0 cell_link
+* (1, 2) -> (1, 3) (out)
+X1_2_1_3 VDD 0 cell_link
+* (1, 2) -> (1, 1) (out)
+X1_2_1_1 VDD 0 cell_link
+* (2, 2) -> (3, 2) (out)
+X2_2_3_2 VDD 0 cell_link
+* (2, 2) -> (1, 2) (out)
+X2_2_1_2 VDD 0 cell_link
+* (2, 2) -> (2, 3) (out)
+X2_2_2_3 VDD 0 cell_link
+* (2, 2) -> (2, 1) (out)
+X2_2_2_1 VDD 0 cell_link
+* (3, 2) -> (4, 2) (out)
+X3_2_4_2 VDD 0 cell_link
+* (3, 2) -> (2, 2) (out)
+X3_2_2_2 VDD 0 cell_link
+* (3, 2) -> (3, 3) (out)
+X3_2_3_3 VDD 0 cell_link
+* (3, 2) -> (3, 1) (out)
+X3_2_3_1 VDD 0 cell_link
+* (4, 2) -> (5, 2) (out)
+X4_2_5_2 VDD 0 cell_link
+* (4, 2) -> (3, 2) (out)
+X4_2_3_2 VDD 0 cell_link
+* (4, 2) -> (4, 3) (out)
+X4_2_4_3 VDD 0 cell_link
+* (4, 2) -> (4, 1) (out)
+X4_2_4_1 VDD 0 cell_link
+* (5, 2) -> (6, 2) (out)
+X5_2_6_2 VDD 0 cell_link
+* (5, 2) -> (4, 2) (out)
+X5_2_4_2 VDD 0 cell_link
+* (5, 2) -> (5, 3) (out)
+X5_2_5_3 VDD 0 cell_link
+* (5, 2) -> (5, 1) (out)
+X5_2_5_1 VDD 0 cell_link
+* (6, 2) -> (7, 2) (out)
+X6_2_7_2 VDD 0 cell_link
+* (6, 2) -> (5, 2) (out)
+X6_2_5_2 VDD 0 cell_link
+* (6, 2) -> (6, 3) (out)
+X6_2_6_3 VDD 0 cell_link
+* (6, 2) -> (6, 1) (out)
+X6_2_6_1 VDD 0 cell_link
+* (7, 2) -> (8, 2) (out)
+X7_2_8_2 VDD 0 cell_link
+* (7, 2) -> (6, 2) (out)
+X7_2_6_2 VDD 0 cell_link
+* (7, 2) -> (7, 3) (out)
+X7_2_7_3 VDD 0 cell_link
+* (7, 2) -> (7, 1) (out)
+X7_2_7_1 VDD 0 cell_link
+* (8, 2) -> (9, 2) (out)
+X8_2_9_2 VDD 0 cell_link
+* (8, 2) -> (7, 2) (out)
+X8_2_7_2 VDD 0 cell_link
+* (8, 2) -> (8, 3) (out)
+X8_2_8_3 VDD 0 cell_link
+* (8, 2) -> (8, 1) (out)
+X8_2_8_1 VDD 0 cell_link
+* (9, 2) -> (10, 2) (out)
+X9_2_10_2 VDD 0 cell_link
+* (9, 2) -> (8, 2) (out)
+X9_2_8_2 VDD 0 cell_link
+* (9, 2) -> (9, 3) (out)
+X9_2_9_3 VDD 0 cell_link
+* (9, 2) -> (9, 1) (out)
+X9_2_9_1 VDD 0 cell_link
+* (10, 2) -> (11, 2) (out)
+X10_2_11_2 VDD 0 cell_link
+* (10, 2) -> (9, 2) (out)
+X10_2_9_2 VDD 0 cell_link
+* (10, 2) -> (10, 3) (out)
+X10_2_10_3 VDD 0 cell_link
+* (10, 2) -> (10, 1) (out)
+X10_2_10_1 VDD 0 cell_link
+* (11, 2) -> (10, 2) (out)
+X11_2_10_2 VDD 0 cell_link
+* (11, 2) -> (11, 3) (out)
+X11_2_11_3 VDD 0 cell_link
+* (11, 2) -> (11, 1) (out)
+X11_2_11_1 VDD 0 cell_link
+* (0, 3) -> (1, 3) (out)
+X0_3_1_3 VDD 0 cell_link
+* (0, 3) -> (0, 4) (out)
+X0_3_0_4 VDD 0 cell_link
+* (0, 3) -> (0, 2) (out)
+X0_3_0_2 VDD 0 cell_link
+* (1, 3) -> (2, 3) (out)
+X1_3_2_3 VDD 0 cell_link
+* (1, 3) -> (0, 3) (out)
+X1_3_0_3 VDD 0 cell_link
+* (1, 3) -> (1, 4) (out)
+X1_3_1_4 VDD 0 cell_link
+* (1, 3) -> (1, 2) (out)
+X1_3_1_2 VDD 0 cell_link
+* (2, 3) -> (3, 3) (out)
+X2_3_3_3 VDD 0 cell_link
+* (2, 3) -> (1, 3) (out)
+X2_3_1_3 VDD 0 cell_link
+* (2, 3) -> (2, 4) (out)
+X2_3_2_4 VDD 0 cell_link
+* (2, 3) -> (2, 2) (out)
+X2_3_2_2 VDD 0 cell_link
+* (3, 3) -> (4, 3) (out)
+X3_3_4_3 VDD 0 cell_link
+* (3, 3) -> (2, 3) (out)
+X3_3_2_3 VDD 0 cell_link
+* (3, 3) -> (3, 4) (out)
+X3_3_3_4 VDD 0 cell_link
+* (3, 3) -> (3, 2) (out)
+X3_3_3_2 VDD 0 cell_link
+* (4, 3) -> (5, 3) (out)
+X4_3_5_3 VDD 0 cell_link
+* (4, 3) -> (3, 3) (out)
+X4_3_3_3 VDD 0 cell_link
+* (4, 3) -> (4, 4) (out)
+X4_3_4_4 VDD 0 cell_link
+* (4, 3) -> (4, 2) (out)
+X4_3_4_2 VDD 0 cell_link
+* (5, 3) -> (6, 3) (out)
+X5_3_6_3 VDD 0 cell_link
+* (5, 3) -> (4, 3) (out)
+X5_3_4_3 VDD 0 cell_link
+* (5, 3) -> (5, 4) (out)
+X5_3_5_4 VDD 0 cell_link
+* (5, 3) -> (5, 2) (out)
+X5_3_5_2 VDD 0 cell_link
+* (6, 3) -> (7, 3) (out)
+X6_3_7_3 VDD 0 cell_link
+* (6, 3) -> (5, 3) (out)
+X6_3_5_3 VDD 0 cell_link
+* (6, 3) -> (6, 4) (out)
+X6_3_6_4 VDD 0 cell_link
+* (6, 3) -> (6, 2) (out)
+X6_3_6_2 VDD 0 cell_link
+* (7, 3) -> (8, 3) (out)
+X7_3_8_3 VDD 0 cell_link
+* (7, 3) -> (6, 3) (out)
+X7_3_6_3 VDD 0 cell_link
+* (7, 3) -> (7, 4) (out)
+X7_3_7_4 VDD 0 cell_link
+* (7, 3) -> (7, 2) (out)
+X7_3_7_2 VDD 0 cell_link
+* (8, 3) -> (9, 3) (out)
+X8_3_9_3 VDD 0 cell_link
+* (8, 3) -> (7, 3) (out)
+X8_3_7_3 VDD 0 cell_link
+* (8, 3) -> (8, 4) (out)
+X8_3_8_4 VDD 0 cell_link
+* (8, 3) -> (8, 2) (out)
+X8_3_8_2 VDD 0 cell_link
+* (9, 3) -> (10, 3) (out)
+X9_3_10_3 VDD 0 cell_link
+* (9, 3) -> (8, 3) (out)
+X9_3_8_3 VDD 0 cell_link
+* (9, 3) -> (9, 4) (out)
+X9_3_9_4 VDD 0 cell_link
+* (9, 3) -> (9, 2) (out)
+X9_3_9_2 VDD 0 cell_link
+* (10, 3) -> (11, 3) (out)
+X10_3_11_3 VDD 0 cell_link
+* (10, 3) -> (9, 3) (out)
+X10_3_9_3 VDD 0 cell_link
+* (10, 3) -> (10, 4) (out)
+X10_3_10_4 VDD 0 cell_link
+* (10, 3) -> (10, 2) (out)
+X10_3_10_2 VDD 0 cell_link
+* (11, 3) -> (10, 3) (out)
+X11_3_10_3 VDD 0 cell_link
+* (11, 3) -> (11, 4) (out)
+X11_3_11_4 VDD 0 cell_link
+* (11, 3) -> (11, 2) (out)
+X11_3_11_2 VDD 0 cell_link
+* (0, 4) -> (1, 4) (out)
+X0_4_1_4 VDD 0 cell_link
+* (0, 4) -> (0, 5) (out)
+X0_4_0_5 VDD 0 cell_link
+* (0, 4) -> (0, 3) (out)
+X0_4_0_3 VDD 0 cell_link
+* (1, 4) -> (2, 4) (out)
+X1_4_2_4 VDD 0 cell_link
+* (1, 4) -> (0, 4) (out)
+X1_4_0_4 VDD 0 cell_link
+* (1, 4) -> (1, 5) (out)
+X1_4_1_5 VDD 0 cell_link
+* (1, 4) -> (1, 3) (out)
+X1_4_1_3 VDD 0 cell_link
+* (2, 4) -> (3, 4) (out)
+X2_4_3_4 VDD 0 cell_link
+* (2, 4) -> (1, 4) (out)
+X2_4_1_4 VDD 0 cell_link
+* (2, 4) -> (2, 5) (out)
+X2_4_2_5 VDD 0 cell_link
+* (2, 4) -> (2, 3) (out)
+X2_4_2_3 VDD 0 cell_link
+* (3, 4) -> (4, 4) (out)
+X3_4_4_4 VDD 0 cell_link
+* (3, 4) -> (2, 4) (out)
+X3_4_2_4 VDD 0 cell_link
+* (3, 4) -> (3, 5) (out)
+X3_4_3_5 VDD 0 cell_link
+* (3, 4) -> (3, 3) (out)
+X3_4_3_3 VDD 0 cell_link
+* (4, 4) -> (5, 4) (out)
+X4_4_5_4 VDD 0 cell_link
+* (4, 4) -> (3, 4) (out)
+X4_4_3_4 VDD 0 cell_link
+* (4, 4) -> (4, 5) (out)
+X4_4_4_5 VDD 0 cell_link
+* (4, 4) -> (4, 3) (out)
+X4_4_4_3 VDD 0 cell_link
+* (5, 4) -> (6, 4) (out)
+X5_4_6_4 VDD 0 cell_link
+* (5, 4) -> (4, 4) (out)
+X5_4_4_4 VDD 0 cell_link
+* (5, 4) -> (5, 5) (out)
+X5_4_5_5 VDD 0 cell_link
+* (5, 4) -> (5, 3) (out)
+X5_4_5_3 VDD 0 cell_link
+* (6, 4) -> (7, 4) (out)
+X6_4_7_4 VDD 0 cell_link
+* (6, 4) -> (5, 4) (out)
+X6_4_5_4 VDD 0 cell_link
+* (6, 4) -> (6, 5) (out)
+X6_4_6_5 VDD 0 cell_link
+* (6, 4) -> (6, 3) (out)
+X6_4_6_3 VDD 0 cell_link
+* (7, 4) -> (8, 4) (out)
+X7_4_8_4 VDD 0 cell_link
+* (7, 4) -> (6, 4) (out)
+X7_4_6_4 VDD 0 cell_link
+* (7, 4) -> (7, 5) (out)
+X7_4_7_5 VDD 0 cell_link
+* (7, 4) -> (7, 3) (out)
+X7_4_7_3 VDD 0 cell_link
+* (8, 4) -> (9, 4) (out)
+X8_4_9_4 VDD 0 cell_link
+* (8, 4) -> (7, 4) (out)
+X8_4_7_4 VDD 0 cell_link
+* (8, 4) -> (8, 5) (out)
+X8_4_8_5 VDD 0 cell_link
+* (8, 4) -> (8, 3) (out)
+X8_4_8_3 VDD 0 cell_link
+* (9, 4) -> (10, 4) (out)
+X9_4_10_4 VDD 0 cell_link
+* (9, 4) -> (8, 4) (out)
+X9_4_8_4 VDD 0 cell_link
+* (9, 4) -> (9, 5) (out)
+X9_4_9_5 VDD 0 cell_link
+* (9, 4) -> (9, 3) (out)
+X9_4_9_3 VDD 0 cell_link
+* (10, 4) -> (11, 4) (out)
+X10_4_11_4 VDD 0 cell_link
+* (10, 4) -> (9, 4) (out)
+X10_4_9_4 VDD 0 cell_link
+* (10, 4) -> (10, 5) (out)
+X10_4_10_5 VDD 0 cell_link
+* (10, 4) -> (10, 3) (out)
+X10_4_10_3 VDD 0 cell_link
+* (11, 4) -> (10, 4) (out)
+X11_4_10_4 VDD 0 cell_link
+* (11, 4) -> (11, 5) (out)
+X11_4_11_5 VDD 0 cell_link
+* (11, 4) -> (11, 3) (out)
+X11_4_11_3 VDD 0 cell_link
+* (0, 5) -> (1, 5) (out)
+X0_5_1_5 VDD 0 cell_link
+* (0, 5) -> (0, 6) (out)
+X0_5_0_6 VDD 0 cell_link
+* (0, 5) -> (0, 4) (out)
+X0_5_0_4 VDD 0 cell_link
+* (1, 5) -> (2, 5) (out)
+X1_5_2_5 VDD 0 cell_link
+* (1, 5) -> (0, 5) (out)
+X1_5_0_5 VDD 0 cell_link
+* (1, 5) -> (1, 6) (out)
+X1_5_1_6 VDD 0 cell_link
+* (1, 5) -> (1, 4) (out)
+X1_5_1_4 VDD 0 cell_link
+* (2, 5) -> (3, 5) (out)
+X2_5_3_5 VDD 0 cell_link
+* (2, 5) -> (1, 5) (out)
+X2_5_1_5 VDD 0 cell_link
+* (2, 5) -> (2, 6) (out)
+X2_5_2_6 VDD 0 cell_link
+* (2, 5) -> (2, 4) (out)
+X2_5_2_4 VDD 0 cell_link
+* (3, 5) -> (4, 5) (out)
+X3_5_4_5 VDD 0 cell_link
+* (3, 5) -> (2, 5) (out)
+X3_5_2_5 VDD 0 cell_link
+* (3, 5) -> (3, 6) (out)
+X3_5_3_6 VDD 0 cell_link
+* (3, 5) -> (3, 4) (out)
+X3_5_3_4 VDD 0 cell_link
+* (4, 5) -> (5, 5) (out)
+X4_5_5_5 VDD 0 cell_link
+* (4, 5) -> (3, 5) (out)
+X4_5_3_5 VDD 0 cell_link
+* (4, 5) -> (4, 6) (out)
+X4_5_4_6 VDD 0 cell_link
+* (4, 5) -> (4, 4) (out)
+X4_5_4_4 VDD 0 cell_link
+* (5, 5) -> (6, 5) (out)
+X5_5_6_5 VDD 0 cell_link
+* (5, 5) -> (4, 5) (out)
+X5_5_4_5 VDD 0 cell_link
+* (5, 5) -> (5, 6) (out)
+X5_5_5_6 VDD 0 cell_link
+* (5, 5) -> (5, 4) (out)
+X5_5_5_4 VDD 0 cell_link
+* (6, 5) -> (7, 5) (out)
+X6_5_7_5 VDD 0 cell_link
+* (6, 5) -> (5, 5) (out)
+X6_5_5_5 VDD 0 cell_link
+* (6, 5) -> (6, 6) (out)
+X6_5_6_6 VDD 0 cell_link
+* (6, 5) -> (6, 4) (out)
+X6_5_6_4 VDD 0 cell_link
+* (7, 5) -> (8, 5) (out)
+X7_5_8_5 VDD 0 cell_link
+* (7, 5) -> (6, 5) (out)
+X7_5_6_5 VDD 0 cell_link
+* (7, 5) -> (7, 6) (out)
+X7_5_7_6 VDD 0 cell_link
+* (7, 5) -> (7, 4) (out)
+X7_5_7_4 VDD 0 cell_link
+* (8, 5) -> (9, 5) (out)
+X8_5_9_5 VDD 0 cell_link
+* (8, 5) -> (7, 5) (out)
+X8_5_7_5 VDD 0 cell_link
+* (8, 5) -> (8, 6) (out)
+X8_5_8_6 VDD 0 cell_link
+* (8, 5) -> (8, 4) (out)
+X8_5_8_4 VDD 0 cell_link
+* (9, 5) -> (10, 5) (out)
+X9_5_10_5 VDD 0 cell_link
+* (9, 5) -> (8, 5) (out)
+X9_5_8_5 VDD 0 cell_link
+* (9, 5) -> (9, 6) (out)
+X9_5_9_6 VDD 0 cell_link
+* (9, 5) -> (9, 4) (out)
+X9_5_9_4 VDD 0 cell_link
+* (10, 5) -> (11, 5) (out)
+X10_5_11_5 VDD 0 cell_link
+* (10, 5) -> (9, 5) (out)
+X10_5_9_5 VDD 0 cell_link
+* (10, 5) -> (10, 6) (out)
+X10_5_10_6 VDD 0 cell_link
+* (10, 5) -> (10, 4) (out)
+X10_5_10_4 VDD 0 cell_link
+* (11, 5) -> (10, 5) (out)
+X11_5_10_5 VDD 0 cell_link
+* (11, 5) -> (11, 6) (out)
+X11_5_11_6 VDD 0 cell_link
+* (11, 5) -> (11, 4) (out)
+X11_5_11_4 VDD 0 cell_link
+* (0, 6) -> (1, 6) (out)
+X0_6_1_6 VDD 0 cell_link
+* (0, 6) -> (0, 7) (out)
+X0_6_0_7 VDD 0 cell_link
+* (0, 6) -> (0, 5) (out)
+X0_6_0_5 VDD 0 cell_link
+* (1, 6) -> (2, 6) (out)
+X1_6_2_6 VDD 0 cell_link
+* (1, 6) -> (0, 6) (out)
+X1_6_0_6 VDD 0 cell_link
+* (1, 6) -> (1, 7) (out)
+X1_6_1_7 VDD 0 cell_link
+* (1, 6) -> (1, 5) (out)
+X1_6_1_5 VDD 0 cell_link
+* (2, 6) -> (3, 6) (out)
+X2_6_3_6 VDD 0 cell_link
+* (2, 6) -> (1, 6) (out)
+X2_6_1_6 VDD 0 cell_link
+* (2, 6) -> (2, 7) (out)
+X2_6_2_7 VDD 0 cell_link
+* (2, 6) -> (2, 5) (out)
+X2_6_2_5 VDD 0 cell_link
+* (3, 6) -> (4, 6) (out)
+X3_6_4_6 VDD 0 cell_link
+* (3, 6) -> (2, 6) (out)
+X3_6_2_6 VDD 0 cell_link
+* (3, 6) -> (3, 7) (out)
+X3_6_3_7 VDD 0 cell_link
+* (3, 6) -> (3, 5) (out)
+X3_6_3_5 VDD 0 cell_link
+* (4, 6) -> (5, 6) (out)
+X4_6_5_6 VDD 0 cell_link
+* (4, 6) -> (3, 6) (out)
+X4_6_3_6 VDD 0 cell_link
+* (4, 6) -> (4, 7) (out)
+X4_6_4_7 VDD 0 cell_link
+* (4, 6) -> (4, 5) (out)
+X4_6_4_5 VDD 0 cell_link
+* (5, 6) -> (6, 6) (out)
+X5_6_6_6 VDD 0 cell_link
+* (5, 6) -> (4, 6) (out)
+X5_6_4_6 VDD 0 cell_link
+* (5, 6) -> (5, 7) (out)
+X5_6_5_7 VDD 0 cell_link
+* (5, 6) -> (5, 5) (out)
+X5_6_5_5 VDD 0 cell_link
+* (6, 6) -> (7, 6) (out)
+X6_6_7_6 VDD 0 cell_link
+* (6, 6) -> (5, 6) (out)
+X6_6_5_6 VDD 0 cell_link
+* (6, 6) -> (6, 7) (out)
+X6_6_6_7 VDD 0 cell_link
+* (6, 6) -> (6, 5) (out)
+X6_6_6_5 VDD 0 cell_link
+* (7, 6) -> (8, 6) (out)
+X7_6_8_6 VDD 0 cell_link
+* (7, 6) -> (6, 6) (out)
+X7_6_6_6 VDD 0 cell_link
+* (7, 6) -> (7, 7) (out)
+X7_6_7_7 VDD 0 cell_link
+* (7, 6) -> (7, 5) (out)
+X7_6_7_5 VDD 0 cell_link
+* (8, 6) -> (9, 6) (out)
+X8_6_9_6 VDD 0 cell_link
+* (8, 6) -> (7, 6) (out)
+X8_6_7_6 VDD 0 cell_link
+* (8, 6) -> (8, 7) (out)
+X8_6_8_7 VDD 0 cell_link
+* (8, 6) -> (8, 5) (out)
+X8_6_8_5 VDD 0 cell_link
+* (9, 6) -> (10, 6) (out)
+X9_6_10_6 VDD 0 cell_link
+* (9, 6) -> (8, 6) (out)
+X9_6_8_6 VDD 0 cell_link
+* (9, 6) -> (9, 7) (out)
+X9_6_9_7 VDD 0 cell_link
+* (9, 6) -> (9, 5) (out)
+X9_6_9_5 VDD 0 cell_link
+* (10, 6) -> (11, 6) (out)
+X10_6_11_6 VDD 0 cell_link
+* (10, 6) -> (9, 6) (out)
+X10_6_9_6 VDD 0 cell_link
+* (10, 6) -> (10, 7) (out)
+X10_6_10_7 VDD 0 cell_link
+* (10, 6) -> (10, 5) (out)
+X10_6_10_5 VDD 0 cell_link
+* (11, 6) -> (10, 6) (out)
+X11_6_10_6 VDD 0 cell_link
+* (11, 6) -> (11, 7) (out)
+X11_6_11_7 VDD 0 cell_link
+* (11, 6) -> (11, 5) (out)
+X11_6_11_5 VDD 0 cell_link
+* (0, 7) -> (1, 7) (out)
+X0_7_1_7 VDD 0 cell_link
+* (0, 7) -> (0, 8) (out)
+X0_7_0_8 VDD 0 cell_link
+* (0, 7) -> (0, 6) (out)
+X0_7_0_6 VDD 0 cell_link
+* (1, 7) -> (2, 7) (out)
+X1_7_2_7 VDD 0 cell_link
+* (1, 7) -> (0, 7) (out)
+X1_7_0_7 VDD 0 cell_link
+* (1, 7) -> (1, 8) (out)
+X1_7_1_8 VDD 0 cell_link
+* (1, 7) -> (1, 6) (out)
+X1_7_1_6 VDD 0 cell_link
+* (2, 7) -> (3, 7) (out)
+X2_7_3_7 VDD 0 cell_link
+* (2, 7) -> (1, 7) (out)
+X2_7_1_7 VDD 0 cell_link
+* (2, 7) -> (2, 8) (out)
+X2_7_2_8 VDD 0 cell_link
+* (2, 7) -> (2, 6) (out)
+X2_7_2_6 VDD 0 cell_link
+* (3, 7) -> (4, 7) (out)
+X3_7_4_7 VDD 0 cell_link
+* (3, 7) -> (2, 7) (out)
+X3_7_2_7 VDD 0 cell_link
+* (3, 7) -> (3, 8) (out)
+X3_7_3_8 VDD 0 cell_link
+* (3, 7) -> (3, 6) (out)
+X3_7_3_6 VDD 0 cell_link
+* (4, 7) -> (5, 7) (out)
+X4_7_5_7 VDD 0 cell_link
+* (4, 7) -> (3, 7) (out)
+X4_7_3_7 VDD 0 cell_link
+* (4, 7) -> (4, 8) (out)
+X4_7_4_8 VDD 0 cell_link
+* (4, 7) -> (4, 6) (out)
+X4_7_4_6 VDD 0 cell_link
+* (5, 7) -> (6, 7) (out)
+X5_7_6_7 VDD 0 cell_link
+* (5, 7) -> (4, 7) (out)
+X5_7_4_7 VDD 0 cell_link
+* (5, 7) -> (5, 8) (out)
+X5_7_5_8 VDD 0 cell_link
+* (5, 7) -> (5, 6) (out)
+X5_7_5_6 VDD 0 cell_link
+* (6, 7) -> (7, 7) (out)
+X6_7_7_7 VDD 0 cell_link
+* (6, 7) -> (5, 7) (out)
+X6_7_5_7 VDD 0 cell_link
+* (6, 7) -> (6, 8) (out)
+X6_7_6_8 VDD 0 cell_link
+* (6, 7) -> (6, 6) (out)
+X6_7_6_6 VDD 0 cell_link
+* (7, 7) -> (8, 7) (out)
+X7_7_8_7 VDD 0 cell_link
+* (7, 7) -> (6, 7) (out)
+X7_7_6_7 VDD 0 cell_link
+* (7, 7) -> (7, 8) (out)
+X7_7_7_8 VDD 0 cell_link
+* (7, 7) -> (7, 6) (out)
+X7_7_7_6 VDD 0 cell_link
+* (8, 7) -> (9, 7) (out)
+X8_7_9_7 VDD 0 cell_link
+* (8, 7) -> (7, 7) (out)
+X8_7_7_7 VDD 0 cell_link
+* (8, 7) -> (8, 8) (out)
+X8_7_8_8 VDD 0 cell_link
+* (8, 7) -> (8, 6) (out)
+X8_7_8_6 VDD 0 cell_link
+* (9, 7) -> (10, 7) (out)
+X9_7_10_7 VDD 0 cell_link
+* (9, 7) -> (8, 7) (out)
+X9_7_8_7 VDD 0 cell_link
+* (9, 7) -> (9, 8) (out)
+X9_7_9_8 VDD 0 cell_link
+* (9, 7) -> (9, 6) (out)
+X9_7_9_6 VDD 0 cell_link
+* (10, 7) -> (11, 7) (out)
+X10_7_11_7 VDD 0 cell_link
+* (10, 7) -> (9, 7) (out)
+X10_7_9_7 VDD 0 cell_link
+* (10, 7) -> (10, 8) (out)
+X10_7_10_8 VDD 0 cell_link
+* (10, 7) -> (10, 6) (out)
+X10_7_10_6 VDD 0 cell_link
+* (11, 7) -> (10, 7) (out)
+X11_7_10_7 VDD 0 cell_link
+* (11, 7) -> (11, 8) (out)
+X11_7_11_8 VDD 0 cell_link
+* (11, 7) -> (11, 6) (out)
+X11_7_11_6 VDD 0 cell_link
+* (0, 8) -> (1, 8) (out)
+X0_8_1_8 VDD 0 cell_link
+* (0, 8) -> (0, 9) (out)
+X0_8_0_9 VDD 0 cell_link
+* (0, 8) -> (0, 7) (out)
+X0_8_0_7 VDD 0 cell_link
+* (1, 8) -> (2, 8) (out)
+X1_8_2_8 VDD 0 cell_link
+* (1, 8) -> (0, 8) (out)
+X1_8_0_8 VDD 0 cell_link
+* (1, 8) -> (1, 9) (out)
+X1_8_1_9 VDD 0 cell_link
+* (1, 8) -> (1, 7) (out)
+X1_8_1_7 VDD 0 cell_link
+* (2, 8) -> (3, 8) (out)
+X2_8_3_8 VDD 0 cell_link
+* (2, 8) -> (1, 8) (out)
+X2_8_1_8 VDD 0 cell_link
+* (2, 8) -> (2, 9) (out)
+X2_8_2_9 VDD 0 cell_link
+* (2, 8) -> (2, 7) (out)
+X2_8_2_7 VDD 0 cell_link
+* (3, 8) -> (4, 8) (out)
+X3_8_4_8 VDD 0 cell_link
+* (3, 8) -> (2, 8) (out)
+X3_8_2_8 VDD 0 cell_link
+* (3, 8) -> (3, 9) (out)
+X3_8_3_9 VDD 0 cell_link
+* (3, 8) -> (3, 7) (out)
+X3_8_3_7 VDD 0 cell_link
+* (4, 8) -> (5, 8) (out)
+X4_8_5_8 VDD 0 cell_link
+* (4, 8) -> (3, 8) (out)
+X4_8_3_8 VDD 0 cell_link
+* (4, 8) -> (4, 9) (out)
+X4_8_4_9 VDD 0 cell_link
+* (4, 8) -> (4, 7) (out)
+X4_8_4_7 VDD 0 cell_link
+* (5, 8) -> (6, 8) (out)
+X5_8_6_8 VDD 0 cell_link
+* (5, 8) -> (4, 8) (out)
+X5_8_4_8 VDD 0 cell_link
+* (5, 8) -> (5, 9) (out)
+X5_8_5_9 VDD 0 cell_link
+* (5, 8) -> (5, 7) (out)
+X5_8_5_7 VDD 0 cell_link
+* (6, 8) -> (7, 8) (out)
+X6_8_7_8 VDD 0 cell_link
+* (6, 8) -> (5, 8) (out)
+X6_8_5_8 VDD 0 cell_link
+* (6, 8) -> (6, 9) (out)
+X6_8_6_9 VDD 0 cell_link
+* (6, 8) -> (6, 7) (out)
+X6_8_6_7 VDD 0 cell_link
+* (7, 8) -> (8, 8) (out)
+X7_8_8_8 VDD 0 cell_link
+* (7, 8) -> (6, 8) (out)
+X7_8_6_8 VDD 0 cell_link
+* (7, 8) -> (7, 9) (out)
+X7_8_7_9 VDD 0 cell_link
+* (7, 8) -> (7, 7) (out)
+X7_8_7_7 VDD 0 cell_link
+* (8, 8) -> (9, 8) (out)
+X8_8_9_8 VDD 0 cell_link
+* (8, 8) -> (7, 8) (out)
+X8_8_7_8 VDD 0 cell_link
+* (8, 8) -> (8, 9) (out)
+X8_8_8_9 VDD 0 cell_link
+* (8, 8) -> (8, 7) (out)
+X8_8_8_7 VDD 0 cell_link
+* (9, 8) -> (10, 8) (out)
+X9_8_10_8 VDD 0 cell_link
+* (9, 8) -> (8, 8) (out)
+X9_8_8_8 VDD 0 cell_link
+* (9, 8) -> (9, 9) (out)
+X9_8_9_9 VDD 0 cell_link
+* (9, 8) -> (9, 7) (out)
+X9_8_9_7 VDD 0 cell_link
+* (10, 8) -> (11, 8) (out)
+X10_8_11_8 VDD 0 cell_link
+* (10, 8) -> (9, 8) (out)
+X10_8_9_8 VDD 0 cell_link
+* (10, 8) -> (10, 9) (out)
+X10_8_10_9 VDD 0 cell_link
+* (10, 8) -> (10, 7) (out)
+X10_8_10_7 VDD 0 cell_link
+* (11, 8) -> (10, 8) (out)
+X11_8_10_8 VDD 0 cell_link
+* (11, 8) -> (11, 9) (out)
+X11_8_11_9 VDD 0 cell_link
+* (11, 8) -> (11, 7) (out)
+X11_8_11_7 VDD 0 cell_link
+* (0, 9) -> (1, 9) (out)
+X0_9_1_9 VDD 0 cell_link
+* (0, 9) -> (0, 10) (out)
+X0_9_0_10 VDD 0 cell_link
+* (0, 9) -> (0, 8) (out)
+X0_9_0_8 VDD 0 cell_link
+* (1, 9) -> (2, 9) (out)
+X1_9_2_9 VDD 0 cell_link
+* (1, 9) -> (0, 9) (out)
+X1_9_0_9 VDD 0 cell_link
+* (1, 9) -> (1, 10) (out)
+X1_9_1_10 VDD 0 cell_link
+* (1, 9) -> (1, 8) (out)
+X1_9_1_8 VDD 0 cell_link
+* (2, 9) -> (3, 9) (out)
+X2_9_3_9 VDD 0 cell_link
+* (2, 9) -> (1, 9) (out)
+X2_9_1_9 VDD 0 cell_link
+* (2, 9) -> (2, 10) (out)
+X2_9_2_10 VDD 0 cell_link
+* (2, 9) -> (2, 8) (out)
+X2_9_2_8 VDD 0 cell_link
+* (3, 9) -> (4, 9) (out)
+X3_9_4_9 VDD 0 cell_link
+* (3, 9) -> (2, 9) (out)
+X3_9_2_9 VDD 0 cell_link
+* (3, 9) -> (3, 10) (out)
+X3_9_3_10 VDD 0 cell_link
+* (3, 9) -> (3, 8) (out)
+X3_9_3_8 VDD 0 cell_link
+* (4, 9) -> (5, 9) (out)
+X4_9_5_9 VDD 0 cell_link
+* (4, 9) -> (3, 9) (out)
+X4_9_3_9 VDD 0 cell_link
+* (4, 9) -> (4, 10) (out)
+X4_9_4_10 VDD 0 cell_link
+* (4, 9) -> (4, 8) (out)
+X4_9_4_8 VDD 0 cell_link
+* (5, 9) -> (6, 9) (out)
+X5_9_6_9 VDD 0 cell_link
+* (5, 9) -> (4, 9) (out)
+X5_9_4_9 VDD 0 cell_link
+* (5, 9) -> (5, 10) (out)
+X5_9_5_10 VDD 0 cell_link
+* (5, 9) -> (5, 8) (out)
+X5_9_5_8 VDD 0 cell_link
+* (6, 9) -> (7, 9) (out)
+X6_9_7_9 VDD 0 cell_link
+* (6, 9) -> (5, 9) (out)
+X6_9_5_9 VDD 0 cell_link
+* (6, 9) -> (6, 10) (out)
+X6_9_6_10 VDD 0 cell_link
+* (6, 9) -> (6, 8) (out)
+X6_9_6_8 VDD 0 cell_link
+* (7, 9) -> (8, 9) (out)
+X7_9_8_9 VDD 0 cell_link
+* (7, 9) -> (6, 9) (out)
+X7_9_6_9 VDD 0 cell_link
+* (7, 9) -> (7, 10) (out)
+X7_9_7_10 VDD 0 cell_link
+* (7, 9) -> (7, 8) (out)
+X7_9_7_8 VDD 0 cell_link
+* (8, 9) -> (9, 9) (out)
+X8_9_9_9 VDD 0 cell_link
+* (8, 9) -> (7, 9) (out)
+X8_9_7_9 VDD 0 cell_link
+* (8, 9) -> (8, 10) (out)
+X8_9_8_10 VDD 0 cell_link
+* (8, 9) -> (8, 8) (out)
+X8_9_8_8 VDD 0 cell_link
+* (9, 9) -> (10, 9) (out)
+X9_9_10_9 VDD 0 cell_link
+* (9, 9) -> (8, 9) (out)
+X9_9_8_9 VDD 0 cell_link
+* (9, 9) -> (9, 10) (out)
+X9_9_9_10 VDD 0 cell_link
+* (9, 9) -> (9, 8) (out)
+X9_9_9_8 VDD 0 cell_link
+* (10, 9) -> (11, 9) (out)
+X10_9_11_9 VDD 0 cell_link
+* (10, 9) -> (9, 9) (out)
+X10_9_9_9 VDD 0 cell_link
+* (10, 9) -> (10, 10) (out)
+X10_9_10_10 VDD 0 cell_link
+* (10, 9) -> (10, 8) (out)
+X10_9_10_8 VDD 0 cell_link
+* (11, 9) -> (10, 9) (out)
+X11_9_10_9 VDD 0 cell_link
+* (11, 9) -> (11, 10) (out)
+X11_9_11_10 VDD 0 cell_link
+* (11, 9) -> (11, 8) (out)
+X11_9_11_8 VDD 0 cell_link
+* (0, 10) -> (1, 10) (out)
+X0_10_1_10 VDD 0 cell_link
+* (0, 10) -> (0, 11) (out)
+X0_10_0_11 VDD 0 cell_link
+* (0, 10) -> (0, 9) (out)
+X0_10_0_9 VDD 0 cell_link
+* (1, 10) -> (2, 10) (out)
+X1_10_2_10 VDD 0 cell_link
+* (1, 10) -> (0, 10) (out)
+X1_10_0_10 VDD 0 cell_link
+* (1, 10) -> (1, 11) (out)
+X1_10_1_11 VDD 0 cell_link
+* (1, 10) -> (1, 9) (out)
+X1_10_1_9 VDD 0 cell_link
+* (2, 10) -> (3, 10) (out)
+X2_10_3_10 VDD 0 cell_link
+* (2, 10) -> (1, 10) (out)
+X2_10_1_10 VDD 0 cell_link
+* (2, 10) -> (2, 11) (out)
+X2_10_2_11 VDD 0 cell_link
+* (2, 10) -> (2, 9) (out)
+X2_10_2_9 VDD 0 cell_link
+* (3, 10) -> (4, 10) (out)
+X3_10_4_10 VDD 0 cell_link
+* (3, 10) -> (2, 10) (out)
+X3_10_2_10 VDD 0 cell_link
+* (3, 10) -> (3, 11) (out)
+X3_10_3_11 VDD 0 cell_link
+* (3, 10) -> (3, 9) (out)
+X3_10_3_9 VDD 0 cell_link
+* (4, 10) -> (5, 10) (out)
+X4_10_5_10 VDD 0 cell_link
+* (4, 10) -> (3, 10) (out)
+X4_10_3_10 VDD 0 cell_link
+* (4, 10) -> (4, 11) (out)
+X4_10_4_11 VDD 0 cell_link
+* (4, 10) -> (4, 9) (out)
+X4_10_4_9 VDD 0 cell_link
+* (5, 10) -> (6, 10) (out)
+X5_10_6_10 VDD 0 cell_link
+* (5, 10) -> (4, 10) (out)
+X5_10_4_10 VDD 0 cell_link
+* (5, 10) -> (5, 11) (out)
+X5_10_5_11 VDD 0 cell_link
+* (5, 10) -> (5, 9) (out)
+X5_10_5_9 VDD 0 cell_link
+* (6, 10) -> (7, 10) (out)
+X6_10_7_10 VDD 0 cell_link
+* (6, 10) -> (5, 10) (out)
+X6_10_5_10 VDD 0 cell_link
+* (6, 10) -> (6, 11) (out)
+X6_10_6_11 VDD 0 cell_link
+* (6, 10) -> (6, 9) (out)
+X6_10_6_9 VDD 0 cell_link
+* (7, 10) -> (8, 10) (out)
+X7_10_8_10 VDD 0 cell_link
+* (7, 10) -> (6, 10) (out)
+X7_10_6_10 VDD 0 cell_link
+* (7, 10) -> (7, 11) (out)
+X7_10_7_11 VDD 0 cell_link
+* (7, 10) -> (7, 9) (out)
+X7_10_7_9 VDD 0 cell_link
+* (8, 10) -> (9, 10) (out)
+X8_10_9_10 VDD 0 cell_link
+* (8, 10) -> (7, 10) (out)
+X8_10_7_10 VDD 0 cell_link
+* (8, 10) -> (8, 11) (out)
+X8_10_8_11 VDD 0 cell_link
+* (8, 10) -> (8, 9) (out)
+X8_10_8_9 VDD 0 cell_link
+* (9, 10) -> (10, 10) (out)
+X9_10_10_10 VDD 0 cell_link
+* (9, 10) -> (8, 10) (out)
+X9_10_8_10 VDD 0 cell_link
+* (9, 10) -> (9, 11) (out)
+X9_10_9_11 VDD 0 cell_link
+* (9, 10) -> (9, 9) (out)
+X9_10_9_9 VDD 0 cell_link
+* (10, 10) -> (11, 10) (out)
+X10_10_11_10 VDD 0 cell_link
+* (10, 10) -> (9, 10) (out)
+X10_10_9_10 VDD 0 cell_link
+* (10, 10) -> (10, 11) (out)
+X10_10_10_11 VDD 0 cell_link
+* (10, 10) -> (10, 9) (out)
+X10_10_10_9 VDD 0 cell_link
+* (11, 10) -> (10, 10) (out)
+X11_10_10_10 VDD 0 cell_link
+* (11, 10) -> (11, 11) (out)
+X11_10_11_11 VDD 0 cell_link
+* (11, 10) -> (11, 9) (out)
+X11_10_11_9 VDD 0 cell_link
+* (0, 11) -> (1, 11) (out)
+X0_11_1_11 VDD 0 cell_link
+* (0, 11) -> (0, 10) (out)
+X0_11_0_10 VDD 0 cell_link
+* (1, 11) -> (2, 11) (out)
+X1_11_2_11 VDD 0 cell_link
+* (1, 11) -> (0, 11) (out)
+X1_11_0_11 VDD 0 cell_link
+* (1, 11) -> (1, 10) (out)
+X1_11_1_10 VDD 0 cell_link
+* (2, 11) -> (3, 11) (out)
+X2_11_3_11 VDD 0 cell_link
+* (2, 11) -> (1, 11) (out)
+X2_11_1_11 VDD 0 cell_link
+* (2, 11) -> (2, 10) (out)
+X2_11_2_10 VDD 0 cell_link
+* (3, 11) -> (4, 11) (out)
+X3_11_4_11 VDD 0 cell_link
+* (3, 11) -> (2, 11) (out)
+X3_11_2_11 VDD 0 cell_link
+* (3, 11) -> (3, 10) (out)
+X3_11_3_10 VDD 0 cell_link
+* (4, 11) -> (5, 11) (out)
+X4_11_5_11 VDD 0 cell_link
+* (4, 11) -> (3, 11) (out)
+X4_11_3_11 VDD 0 cell_link
+* (4, 11) -> (4, 10) (out)
+X4_11_4_10 VDD 0 cell_link
+* (5, 11) -> (6, 11) (out)
+X5_11_6_11 VDD 0 cell_link
+* (5, 11) -> (4, 11) (out)
+X5_11_4_11 VDD 0 cell_link
+* (5, 11) -> (5, 10) (out)
+X5_11_5_10 VDD 0 cell_link
+* (6, 11) -> (7, 11) (out)
+X6_11_7_11 VDD 0 cell_link
+* (6, 11) -> (5, 11) (out)
+X6_11_5_11 VDD 0 cell_link
+* (6, 11) -> (6, 10) (out)
+X6_11_6_10 VDD 0 cell_link
+* (7, 11) -> (8, 11) (out)
+X7_11_8_11 VDD 0 cell_link
+* (7, 11) -> (6, 11) (out)
+X7_11_6_11 VDD 0 cell_link
+* (7, 11) -> (7, 10) (out)
+X7_11_7_10 VDD 0 cell_link
+* (8, 11) -> (9, 11) (out)
+X8_11_9_11 VDD 0 cell_link
+* (8, 11) -> (7, 11) (out)
+X8_11_7_11 VDD 0 cell_link
+* (8, 11) -> (8, 10) (out)
+X8_11_8_10 VDD 0 cell_link
+* (9, 11) -> (10, 11) (out)
+X9_11_10_11 VDD 0 cell_link
+* (9, 11) -> (8, 11) (out)
+X9_11_8_11 VDD 0 cell_link
+* (9, 11) -> (9, 10) (out)
+X9_11_9_10 VDD 0 cell_link
+* (10, 11) -> (11, 11) (out)
+X10_11_11_11 VDD 0 cell_link
+* (10, 11) -> (9, 11) (out)
+X10_11_9_11 VDD 0 cell_link
+* (10, 11) -> (10, 10) (out)
+X10_11_10_10 VDD 0 cell_link
+* (11, 11) -> (10, 11) (out)
+X11_11_10_11 VDD 0 cell_link
+* (11, 11) -> (11, 10) (out)
+X11_11_11_10 VDD 0 cell_link
+.end
