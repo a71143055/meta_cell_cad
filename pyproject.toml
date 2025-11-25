@@ -1,0 +1,19 @@
+[project]
+name = "meta-cell-cad"
+version = "0.1.0"
+description = "Meta-learning cellular IC CAD prototype"
+authors = [{name="Peter", email="peter@example.com"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "networkx>=3.2",
+    "pyyaml>=6.0",
+]
+
+[project.urls]
+homepage = "https://example.com/meta-cell-cad"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"

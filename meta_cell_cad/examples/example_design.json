@@ -1,0 +1,15 @@
+{
+  "synthesis": {
+    "grid_width": 12,
+    "grid_height": 12,
+    "max_iters": 80,
+    "seed": 123
+  },
+  "export": {
+    "top_module_name": "meta_top",
+    "spice_supply_v": 0.9
+  },
+  "cell_library": "meta_cell_cad/examples/cell_library.yaml",
+  "episodes": 5,
+  "sim_steps": 60
+}
